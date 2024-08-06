@@ -1,0 +1,10 @@
+package core;
+class QQ{
+	
+}
+public class P004_UserINput {
+	public static void main(String[] args) {
+		int i;
+		
+	}
+}

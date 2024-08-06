@@ -1,0 +1,11 @@
+package core;
+//1.assignment
+//2.arithmetic
+//3.logical
+//4.conditional
+//5.unary
+public class P003_Operators {
+	public static void main(String[] args) {
+		
+	}
+}

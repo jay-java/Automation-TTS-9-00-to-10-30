@@ -1,0 +1,12 @@
+package core;
+class Q{
+	public void call() {
+		System.out.println("call fun in Q class");
+	}
+}
+public class P004_UserINput {
+	public static void main(String[] args) {
+		int i;
+		
+	}
+}

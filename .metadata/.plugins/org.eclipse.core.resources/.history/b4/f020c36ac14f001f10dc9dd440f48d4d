@@ -1,0 +1,9 @@
+package core;
+
+public class P01_FirstProgram {
+	public static void main(String[] args) {
+		System.out.print("hello again");
+		System.out.println("hello selenium");
+		System.out.println("HELLO");
+	}
+}
