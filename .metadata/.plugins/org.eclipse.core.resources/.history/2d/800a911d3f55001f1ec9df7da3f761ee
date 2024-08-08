@@ -1,0 +1,22 @@
+package core;
+//without return type without parameter
+//without return type with parameter
+//with return type without parameter
+//with return type with parameter
+		
+class ABC{
+	public void call() {
+		System.out.println("call without return type without parameter");
+	}
+	public void run(float i) {
+		System.out.println("run with para : "+i);
+	}
+	
+}
+public class P008_Functions {
+	public static void main(String[] args) {
+		ABC a = new ABC();
+		a.call();
+		a.run(342);
+	}
+}
