@@ -1,0 +1,15 @@
+package core;
+class Student{
+	int id;
+	String name;
+	double per;
+	public void setId() {
+		
+	}
+	
+}
+public class P013_Encapsulation {
+	public static void main(String[] args) {
+		
+	}
+}

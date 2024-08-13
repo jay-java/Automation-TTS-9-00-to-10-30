@@ -1,0 +1,41 @@
+package core;
+
+class Student {
+	int id;
+	String name;
+	double per;
+
+	public void setId(int id) {
+		this.id = id;
+	}
+
+	public int getId() {
+		return id;
+	}
+
+	public void setName(String name) {
+		this.name = name;
+	}
+
+	public String getName() {
+		return name;
+	}
+
+	public void setPer(double per) {
+		this.per = per;
+	}
+
+	public double getPer() {
+		return per;
+	}
+
+}
+
+public class P013_Encapsulation {
+	public static void main(String[] args) {
+		Student s1 = new Student();
+		s1.setId(12);
+		s1.setName("java");
+		s1.setPer(56.4);
+	}
+}
