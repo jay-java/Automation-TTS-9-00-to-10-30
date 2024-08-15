@@ -1,0 +1,15 @@
+package core;
+
+class XYZ{
+	final int i =1;
+	public void change() {
+		i++;
+		System.out.println(i);
+	}
+}
+public class P018_Final {
+	public static void main(String[] args) {
+		XYZ x = new XYZ();
+		x.change();
+	}
+}
