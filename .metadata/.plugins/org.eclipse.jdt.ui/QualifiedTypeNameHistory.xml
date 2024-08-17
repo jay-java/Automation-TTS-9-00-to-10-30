@@ -10,4 +10,11 @@
     <fullyQualifiedTypeName name="core.D"/>
     <fullyQualifiedTypeName name="core.Overload"/>
     <fullyQualifiedTypeName name="core.Child"/>
+    <fullyQualifiedTypeName name="core.SBI"/>
+    <fullyQualifiedTypeName name="core.HDFC"/>
+    <fullyQualifiedTypeName name="core.JAVA"/>
+    <fullyQualifiedTypeName name="core.XYZ"/>
+    <fullyQualifiedTypeName name="core.InterCall"/>
+    <fullyQualifiedTypeName name="core.inter2"/>
+    <fullyQualifiedTypeName name="core.inter3"/>
 </qualifiedTypeNameHistroy>

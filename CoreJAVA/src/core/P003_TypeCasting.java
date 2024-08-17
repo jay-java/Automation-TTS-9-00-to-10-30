@@ -9,5 +9,10 @@ public class P003_TypeCasting {
 		double d1 = 3.14;
 		int j = (int)d1;
 		System.out.println(j);
+		
+		int a = 10;
+		int b = 3;
+		double c = (double)a/(double)b;
+		System.out.println("c = "+c);
 	}
 }
