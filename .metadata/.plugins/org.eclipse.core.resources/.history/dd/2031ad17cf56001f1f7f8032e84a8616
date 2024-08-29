@@ -1,8 +1,0 @@
-package core;
-//seq of characters
-public class P011_String {
-	public static void main(String[] args) {
-		char a[] = {'J','A','V','A'};
-		System.out.println(a);
-	}
-}

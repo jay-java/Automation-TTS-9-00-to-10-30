@@ -1,0 +1,15 @@
+package core;
+class Lpatop{
+	private int ram;
+	private String model;
+	private double price;
+	Laptop(){
+		
+	}
+	
+}
+public class P023_ListPractical {
+	public static void main(String[] args) {
+		
+	}
+}
