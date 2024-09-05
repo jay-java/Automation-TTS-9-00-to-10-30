@@ -1,9 +1,0 @@
-package core;
-class Data{
-	
-}
-public class P013_Encapsulation {
-	public static void main(String[] args) {
-		
-	}
-}

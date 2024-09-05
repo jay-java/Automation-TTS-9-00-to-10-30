@@ -1,8 +1,0 @@
-package core;
-//checked
-//unchecked
-public class P020_Exception {
-	public static void main(String[] args) {
-		System.out.println("hello")
-	}
-}
