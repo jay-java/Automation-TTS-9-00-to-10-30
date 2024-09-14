@@ -38,6 +38,5 @@ public class P003_FaceCreateAccount {
 		
 		List<WebElement> gender = driver.findElements(By.id("sex"));
 		gender.get(1).click();
-		
 	}
 }
