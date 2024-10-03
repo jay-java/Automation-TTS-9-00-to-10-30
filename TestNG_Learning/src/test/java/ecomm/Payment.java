@@ -18,7 +18,7 @@ public class Payment {
 		System.out.println("COD");
 	}
 
-	@Test
+	@Test(groups = "updateInUPI")
 	public void UPI() {
 		System.out.println("UPI");
 	}

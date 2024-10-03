@@ -7,7 +7,7 @@ public class User {
 	public void createAccount() {
 		System.out.println("create account");
 	}
-	@Test(groups = "updateInCreditCard")
+	@Test(groups = {"updateInCreditCard","updateInUPI"})
 	public void login() {
 		System.out.println("login");
 	}

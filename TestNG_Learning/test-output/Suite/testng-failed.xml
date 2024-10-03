@@ -3,16 +3,15 @@
 <suite name="Failed suite [Suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Test(failed)">
     <classes>
-      <class name="ecomm.Seller">
+      <class name="dependency.User">
         <methods>
+          <include name="profile"/>
+          <include name="logout"/>
+          <include name="changePassword"/>
+          <include name="login"/>
           <include name="createAccount"/>
         </methods>
-      </class> <!-- ecomm.Seller -->
-      <class name="ecomm.User">
-        <methods>
-          <include name="createAccount"/>
-        </methods>
-      </class> <!-- ecomm.User -->
+      </class> <!-- dependency.User -->
     </classes>
   </test> <!-- Test(failed) -->
 </suite> <!-- Failed suite [Suite] -->

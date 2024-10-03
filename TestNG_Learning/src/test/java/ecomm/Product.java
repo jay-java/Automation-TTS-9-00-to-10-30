@@ -18,17 +18,17 @@ public class Product {
 		System.out.println("remove product");
 	}
 
-	@Test(groups = "updateInCreditCard")
+	@Test(groups = {"updateInCreditCard","updateInUPI"})
 	public void searchProduct() {
 		System.out.println("search product");
 	}
 
-	@Test
+	@Test(groups = "updateInUPI")
 	public void addToWishList() {
 		System.out.println("add to wishlist");
 	}
 
-	@Test(groups = "updateInCreditCard")
+	@Test(groups = {"updateInCreditCard","updateInUPI"})
 	public void addToCart() {
 		System.out.println("add to cart");
 	}
